@@ -1,0 +1,86 @@
+book_id,title,author,publisher,genre
+5550,Evil Under the Sun,Agatha Christie,Harper Collins,mystery
+5551,A Murder is Announced,Agatha Christie,Harper Collins,mystery
+5552,4.50 From Paddington,Agatha Christie,Harper Collins,mystery
+5553,The Secret Adversary,Agatha Christie,Harper Collins,mystery
+5554,Five Little Pigs,Agatha Christie,Harper Collins,mystery
+5555,Murder in Mesopotamia,Agatha Christie,Harper Collins,mystery
+5556,Cards on the Table,Agatha Christie,Harper Collins,mystery
+5557,Appointment with Death,Agatha Christie,Harper Collins,mystery
+5558,Curtain: Poirot’s Last Case,Agatha Christie,Harper Collins,mystery
+5559,Hercule Poirot's Christmas,Agatha Christie,Harper Collins,mystery
+5560,Brave New World,Aldous Huxley,Harper Collins,dystopia
+5561,The Doors of Perception & Heaven and Hell,Aldous Huxley,Harper Collins,dystopia
+5562,The Color Purple,Alice Walker,Harcourt,novel
+5563,The Temple of My Familiar,Alice Walker,Harcourt,novel
+5564,Possessing the Secret of Joy,Alice Walker,Harcourt,novel
+5565,The Art of Simple Food: Notes and Recipes from a Delicious Revolution,Alice Waters,Harcourt,novel
+5566,Dreams from My Father,Barack Obama,Penguin Random House,biography
+5567,The Audacity of Hope: Thoughts on Reclaiming the American Dream,Barack Obama,Penguin Random House,biography
+5568,Beezus and Ramona,Beverly Cleary,Harper Collins,children
+5569,"Ramona Quimby, Age 8",Beverly Cleary,Harper Collins,children
+5570,Ramona the Pest,Beverly Cleary,Harper Collins,children
+5571,Ramona Forever,Beverly Cleary,Harper Collins,children
+5572,Ramona and Her Mother,Beverly Cleary,Harper Collins,children
+5573,Runaway Ralph,Beverly Cleary,Harper Collins,children
+5574,Gossip Girl,Cecily von Ziegesar,"Little, Brown and Company",young adult
+5575,You're the one that I want,Cecily von Ziegesar,"Little, Brown and Company",young adult
+5576,You Know You Love Me,Cecily von Ziegesar,"Little, Brown and Company",young adult
+5577,All I Want Is Everything,Cecily von Ziegesar,"Little, Brown and Company",young adult
+5578,Because I'm Worth It,Cecily von Ziegesar,"Little, Brown and Company",young adult
+5579,The Da Vinci Code,Dan Brown,Doubleday,thriller
+5580,Deception Point,Dan Brown,Doubleday,thriller
+5581,Digital Fortress,Dan Brown,Doubleday,thriller
+5582,The Lost Symbol,Dan Brown,Doubleday,thriller
+5583,Inferno,Dan Brown,Doubleday,thriller
+5584,Infinite Jest,David Foster Wallace,"Little, Brown and Company",novel
+5585,Consider the Lobster,David Foster Wallace,"Little, Brown and Company",novel
+5586,A Supposedly Fun Thing I'll Never Do Again: Essays and Arguments,David Foster Wallace,"Little, Brown and Company",novel
+5587,Brief Interviews with Hideous Men,David Foster Wallace,"Little, Brown and Company",novel
+5588,The Great Gatsby,F. Scott Fitzgerald,Penguin Random House,novel
+5589,Tender Is the Night,F. Scott Fitzgerald,Penguin Random House,novel
+5590,This Side of Paradise,F. Scott Fitzgerald,Penguin Random House,novel
+5591,The Beautiful and Damned,F. Scott Fitzgerald,Penguin Random House,novel
+5592,The Curious Case of Benjamin Button,F. Scott Fitzgerald,Penguin Random House,novel
+5593,A Song of Ice and Fire,George R.R. Martin,Bantam Books,fantasy
+5594,A Clash of Kings,George R.R. Martin,Bantam Books,fantasy
+5595,A Dance With Dragons: Part 1 Dreams and Dust,George R.R. Martin,Bantam Books,fantasy
+5596,A Dance With Dragons: Part 2 After The Feast,George R.R. Martin,Bantam Books,fantasy
+5597,Fevre Dream,George R.R. Martin,Bantam Books,fantasy
+5598,The Hedge Knight,George R.R. Martin,Bantam Books,fantasy
+5599,The Sworn Sword,George R.R. Martin,Bantam Books,fantasy
+5600,The Mystery Knight,George R.R. Martin,Bantam Books,fantasy
+5601,The Invisible Man,H.G. Wells,Bantam Books,science fiction
+5602,The Island of Dr. Moreau,H.G. Wells,Bantam Books,science fiction
+5603,The Time Machine and The Invisible Man,H.G. Wells,Bantam Books,science fiction
+5604,The War of the Worlds,H.G. Wells,Bantam Books,science fiction
+5605,The Time Machine,H.G. Wells,Bantam Books,science fiction
+5606,Foundation and Earth,Isaac Asimov,Bantam Books,science fiction
+5607,The Gods Themselves,Isaac Asimov,Bantam Books,science fiction
+5608,Forward the Foundation,Isaac Asimov,Bantam Books,science fiction
+5609,The End of Eternity,Isaac Asimov,Bantam Books,science fiction
+5610,The Naked Sun,Isaac Asimov,Bantam Books,science fiction
+5611,The Robots of Dawn,Isaac Asimov,Bantam Books,science fiction
+5612,Guilty Wives,James Patterson,Penguin Random House,thriller
+5613,The Murder House,James Patterson,Penguin Random House,thriller
+5614,Invisible,James Patterson,Penguin Random House,thriller
+5615,Mistress,James Patterson,Penguin Random House,thriller
+5616,First Love,James Patterson,Penguin Random House,thriller
+5617,Sundays at Tiffany's,James Patterson,Penguin Random House,thriller
+5618,Eclipse,Stephenie Meyer,"Little, Brown and Company",young adult
+5619,Breaking Dawn,Stephenie Meyer,"Little, Brown and Company",young adult
+5620,The Host,Stephenie Meyer,"Little, Brown and Company",young adult
+5621,Kindred,Octavia E. Butler,Hachette,science fiction
+5622,"Parable of the Sower (Earthseed, #1)",Octavia E. Butler,Hachette,science fiction
+5623,Dawn,Octavia E. Butler,Hachette,science fiction
+5624,Fledgling,Octavia E. Butler,Hachette,science fiction
+5625,Parable of the Talents,Octavia E. Butler,Hachette,science fiction
+5626,"Wild Seed (Patternmaster, #1)",Octavia E. Butler,Hachette,science fiction
+5627,Freakonomics,Steven D. Levitt,William Morrow and Company,non-fiction
+5628,SuperFreakonomics,Steven D. Levitt,William Morrow and Company,non-fiction
+5629,The Hobbit or There and Back Again,J.R.R. Tolkien,Harper Collins,non-fiction
+5630,The Fellowship of the Ring,J.R.R. Tolkien,Harper Collins,non-fiction
+5631,The Two Towers,J.R.R. Tolkien,Harper Collins,non-fiction
+5632,The Return of the King,J.R.R. Tolkien,Harper Collins,non-fiction
+5633,The Lord of the Rings,J.R.R. Tolkien,Harper Collins,non-fiction
+5634,The Hobbit and The Lord of the Rings,J.R.R. Tolkien,Harper Collins,non-fiction
